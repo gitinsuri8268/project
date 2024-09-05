@@ -417,7 +417,7 @@ const page = () => {
             <p className="py-[5px] font-light text-[12px] leading-relaxed ">
               Vasant Vihar has several parks in every block. Vasant Vihar is
               composed of Government diplomats, business owners and wealthy
-              people who contribute to the status as one of Delhi&lsquo;s most premium
+              people who contribute to the status as one of Delhi's most premium
               neighborhood.
             </p>
           </div>

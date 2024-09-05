@@ -403,10 +403,10 @@ const page = () => {
               Vasant Vihar is a luxurious and posh area in Delhi. Vasant Vihar
               is a highly diplomatic area that includes the Embassy of
               Argentina. It is near to Indira Gandhi International Airport.
-              Vasant Vihar is popular for coworking spaces, the world&lsquo;s largest
+              Vasant Vihar is popular for coworking spaces, the worlds largest
               restaurants and shopping centers. Vasant Vihar has many parks and
               is mainly composed of senior government diplomats, and wealthy
-              business owners that contribute to the status as one of Delhi&lsquo;s
+              business owners that contribute to the status as one of Delhi's
               most premium locations. If you are planning for commercial office
               space for rent in Vasant Vihar, this would be the smartest
               decision that you will never regret in your life.
@@ -417,7 +417,7 @@ const page = () => {
             <p className="py-[5px] font-light text-[12px] leading-relaxed ">
               Vasant Vihar has several parks in every block. Vasant Vihar is
               composed of Government diplomats, business owners and wealthy
-              people who contribute to the status as one of Delhi&lsquo;s most premium
+              people who contribute to the status as one of Delhi's most premium
               neighborhood.
             </p>
           </div>

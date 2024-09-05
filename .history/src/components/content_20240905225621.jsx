@@ -82,7 +82,7 @@ const Content = () => {
           </h3>
 
           <p className="py-[5px] font-light text-[12px] leading-relaxed">
-            Whether you&apos;re a solo entrepreneur in need of an immediate,
+            Whether youre a solo entrepreneur in need of an immediate,
             fully-equipped office, or a large corporation seeking an entire
             floor in a building, Gitin Suri is here to assist. We strive to find
             the perfect rental office space or coworking environment that aligns
