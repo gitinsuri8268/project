@@ -25,7 +25,7 @@ import { IoCheckmarkDoneCircle } from "react-icons/io5";
 import Textsocial from "@/components/textsocial";
 
 import React, { useState } from 'react';
-const OfficeSpaceForRentInVasantVihar = () => {
+const officespaceforrentinvasantvihar = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 
   const handleClick = (src) => {

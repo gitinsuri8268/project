@@ -5,7 +5,7 @@ import Form from "@/components/form";
 import Footer from "@/components/footer";
 import Image from "next/image";
 import Link from "next/link";
-const OfficeSpaceForRentInSouthDelhi = () => {
+const officespaceforrentinsouthdelhi = () => {
   return (
     <>
       <Navbar />
@@ -449,4 +449,4 @@ const OfficeSpaceForRentInSouthDelhi = () => {
   );
 };
 
-export default OfficeSpaceForRentInSouthDelhi;
+export default Officespaceforrentinsouthdelhi;

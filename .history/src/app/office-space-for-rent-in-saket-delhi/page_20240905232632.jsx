@@ -25,7 +25,7 @@ import { IoCheckmarkDoneCircle } from "react-icons/io5";
 import Textsocial from "@/components/textsocial";
 
 import React, { useState } from 'react';
-const OfficeSpaceForRentInVasantVihar = () => {
+const Officespaceforrentinsaketdelhi = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 
   const handleClick = (src) => {
@@ -42,10 +42,10 @@ const OfficeSpaceForRentInVasantVihar = () => {
         <div className="max-w-[1400px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-3">
           <div
             className="lg:col-span-2"
-            onClick={() => handleClick("/a1.png")}
+            onClick={() => handleClick("/z1.png")}
           >
             <Image
-              src="/a1.png"
+              src="/z1.png"
               alt="Building"
               width={500}
               height={300}
@@ -53,36 +53,36 @@ const OfficeSpaceForRentInVasantVihar = () => {
             />
           </div>
           <div className="lg:col-span-3 grid grid-cols-2 gap-3">
-            <div onClick={() => handleClick("/a2.png")}>
+            <div onClick={() => handleClick("/z2.png")}>
               <Image
-                src="/a2.png"
+                src="/z2.png"
                 alt="Office 1"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/a3.png")}>
+            <div onClick={() => handleClick("/z3.png")}>
               <Image
-                src="/a3.png"
+                src="/z3.png"
                 alt="Office 2"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/a4.png")}>
+            <div onClick={() => handleClick("/z4.png")}>
               <Image
-                src="/a4.png"
+                src="/z4.png"
                 alt="Cubicles 1"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/a5.png")}>
+            <div onClick={() => handleClick("/z5.png")}>
               <Image
-                src="/a5.png"
+                src="/z5.png"
                 alt="Cubicles 2"
                 width={250}
                 height={150}
@@ -293,7 +293,7 @@ const OfficeSpaceForRentInVasantVihar = () => {
           </div>
 
           <div className=" bg-[rgb(250,248,254)] hidden md:grid md:w-[560px] p-4 h-[30vh] md:h-[50vh]  items-center justify-center py-[30px]">
-            <span>Yes i&lsquo;am Interested</span>
+            <span>Yes i&apos;am Interested</span>
             <form action="">
               <div className="md:py-[3px]">
                 <input
@@ -373,104 +373,165 @@ const OfficeSpaceForRentInVasantVihar = () => {
         <div className="max-w-[1100px] mx-auto text-justify py-[20px] p-2 md:p-0">
           <div className="grid  py-[5px] ">
             <h1 className="font-serif text-[16px] md:text-[18px] font-bold">
-              Explore An Amazing Commerical Office Space for Rent in Vasant
-              Vihar
+              Explore the Best Coworking office space for rent in Saket
             </h1>
             <p
               className="py-[5px] leading-relaxed
  font-light tracking-tight
  text-[12px]"
             >
-              Do you wish to make your fortune by having an office in Vasant
-              Vihar, the perfect space for your company in Delhi? Vasant Vihar
-              is the premium area to start your company in Delhi. There are
-              luxurious office spaces for rent in Vasant Vihar. Vasant Vihar
-              provides unique offerings that make it special for businesses to
-              have a coworking space in Vasant Vihar. Collaborate, Network and
-              Grow with commercial office space in Vasant Vihar, Delhi where
-              culture comes together. You can increase your productivity once
-              you choose a coworking office space for rent in Vasant Vihar.
-              Gitin Suri your one-stop-destination for all your coworking office
-              space is here to assist you with the best amenities, appealing
-              interior and a dream office space to start your brand!
+              Planning to start your own business? Gitin Suri can assist you!
+              Gitin Suri has the best office space for rent in Saket, Delhi with
+              world-class facilities and interiors. Having a commercial office
+              space for rent in Saket is a dream of many individuals and it is
+              now possible with Gitin Suri. Whether you are a small business
+              owner or a well-established company, as you come closer to your
+              goals having a space to accommodate your team members is a must.
+              Here is where Gitin Suri comes to the rescue. You can find
+              commercial office space for rent in Saket with our talented team
+              of professionals.
+            </p>
+            <p
+              className="py-[5px] leading-relaxed
+ font-light tracking-tight
+ text-[12px]"
+            >
+              Explore the stunning work areas in Saket, Delhi providing a range
+              of seating options such as hot desks, virtual offices, dedicated
+              desks, cabins and much more. You will get the dream office space
+              of your choice. Within Saket, you can get cost-effective options
+              for coworking office space for rent in Saket, Delhi. Also, you get
+              access to hassle-free commutation once you choose Saket location
+              for your office. You will get additional facilities with Gitin
+              Suri.
             </p>
           </div>
 
-          <div className="py-[15px]">
-            <h1 className="text-[16px] md:text-[18px] font-bold">About Vasant Vihar</h1>
+          <div className="py-[5px]">
+            <h1 className="text-[16px] md:text-[18px] font-bold">About Saket</h1>
             <p className="py-[5px] font-light text-[12px] leading-relaxed ">
-              Vasant Vihar is a luxurious and posh area in Delhi. Vasant Vihar
-              is a highly diplomatic area that includes the Embassy of
-              Argentina. It is near to Indira Gandhi International Airport.
-              Vasant Vihar is popular for coworking spaces, the world&lsquo;s largest
-              restaurants and shopping centers. Vasant Vihar has many parks and
-              is mainly composed of senior government diplomats, and wealthy
-              business owners that contribute to the status as one of Delhi&lsquo;s
-              most premium locations. If you are planning for commercial office
-              space for rent in Vasant Vihar, this would be the smartest
-              decision that you will never regret in your life.
-            </p>
-          </div>
-          <div className="py-[15px]">
-            <h1 className="text-[16px] md:text-[18px] font-bold">About Vasant Vihar</h1>
-            <p className="py-[5px] font-light text-[12px] leading-relaxed ">
-              Vasant Vihar has several parks in every block. Vasant Vihar is
-              composed of Government diplomats, business owners and wealthy
-              people who contribute to the status as one of Delhi&lsquo;s most premium
-              neighborhood.
-            </p>
-          </div>
-          <div className="py-[0px]">
-            <h2 className="text-[16px] md:text-[18px] font-bold">
-              Why Choose Gitin Suri for Commerical Office Space for rent in
-              Vasant Vihar?
-            </h2>
-            <p className="py-[5px] font-light text-[12px] leading-relaxed">
-              Gitin Suir provides the most astonishing commercial office space
-              for rent in Vasant Vihar. Gitin Suri is an online platform where
-              you can compare the best office spaces for rent in Vasant Vihar by
-              comparing the amenities, connectivity and reviews of our elegant
-              customers. Gitin Suri ensures to fulfil the requirements of our
-              customers with well-equipped office space for rent in Vasant
-              Vihar. Whether you are a freelancer in, a small or medium-sized
-              company, we ensure to provide the best coworking space that caters
-              for your needs.
-            </p>
-          </div>
-          <div className="py-[0px]">
-            <p className="py-[5px] font-light text-[12px] leading-relaxed">
-              Choosing Gitin Suri to find you the best office space for rent in
-              Vasant Vihar is the smartest decision that you will make. We at
-              Gitin Suri ensure to provide smooth operations, amazing networking
-              opportunities and the best customer support to our premium
-              clients. Gitin Suri welcomes you to a highly productive
-              environment where your dreams of having a dedicated space and
-              private cabin come into reality in Vasant Vihar. For more details,
-              connect with Gitin Suri now!
+              Saket is a residential area in South Delhi. You can get access to
+              pubs, hotels, cafes and restaurants in Saket. Choosing an office
+              space for rent in Saket is the smartest choice you will make. You
+              don&apos;t have to worry about transportation as Saket offers better
+              flexibility and connectivity. It is named after the Ayodhya city
+              of Uttar Pradesh.
             </p>
           </div>
           <div className="py-[5px]">
-            <h1 className="text-[16px] md:text-[18px] font-bold">FAQ’s</h1>
             <h1 className="text-[16px] md:text-[18px] font-bold">
-              Who prefers coworking spaces for rent in Vasant Vihar, Delhi?
+              Why Choose Gitin Suri for Coworking Space for Rent in Saket,
+              Delhi?
             </h1>
-            <p className="py-[2px] font-light text-[12px] leading-relaxed">
-              From entertainment, beauty, HR and consultation, IT companies,
-              fashion, and real estate every industry prefers coworking spaces
-              for rent in Vasant Vihar, Delhi.
+            <p className="py-[5px] font-light text-[12px] leading-relaxed ">
+              Coworking spaces for rent in Saket provide a collaborative
+              atmosphere for young and vibrant business individuals. It allows
+              professionals from different industries to network and grow in
+              their careers. Here are the reasons why you must consider choosing
+              commercial office space for rent in Saket, Delhi:
+            </p>
+          </div>
+          <div className="py-[0px]">
+            <h2 className="text-[16px] md:text-[18px] font-bold">Breakout Zones</h2>
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              A place to relax with professionals, the breakout zone provides
+              new networking opportunities for businesses
             </p>
           </div>
 
           <div className="py-[5px]">
-            <h3 className="text-[16px] md:text-[18px] font-bold">
-              What are the benefits of having commercial office space for rent
-              in Vasant Vihar, Delhi?
+            <h1 className="text-[16px] md:text-[18px] font-bold">High-Speed Internet</h1>
+
+            <p className="py-[2px] font-light text-[12px] leading-relaxed">
+              Fast and good internet speed keeps work uninterrupted and
+              communication easy.
+            </p>
+          </div>
+
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">Meeting Rooms</h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              Good meeting rooms create the best and most unique space that
+              boosts creativity among professionals and promotes talent.
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[18px] font-bold">
+              Amenities provided for Coworking office space for rent in Saket
             </h3>
 
             <p className="py-[5px] font-light text-[12px] leading-relaxed">
-              The perks of having commercial office space for rent in Vasant
-              Vihar, Delhi are networking opportunities, an increase in
-              creativity, smooth operations, better flexibility and discounts.
+              Coworking office space for rent in Saket offers a range of
+              facilities that keep professionals inspired to do their work:
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">Infrastructure</h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              Well-developed infrastructure that includes bus station and Saket
+              Metro station helps professionals to travel hassle-free to their
+              work
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">Infrastructure</h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              Well-developed infrastructure that includes bus station and Saket
+              Metro station helps professionals to travel hassle-free to their
+              work
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">Connectivity</h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              Saket offers excellent connectivity to young and vibrant
+              professionals which makes it a prime location for you to choose
+              your office space in Saket on rent.
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">Range of Working Spaces</h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              There are many options of coworking spaces in Saket that allow you
+              to choose a coworking space in Saket as per your budget and needs
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">Business Hub</h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              There are startups and companies in Saket that provide good
+              networking opportunities for businesses
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">FAQ&apos;s</h3>
+            <h3 className="text-[16px] md:text-[18px] font-bold">
+              What are the types of coworking spaces for rent in Saket?
+            </h3>
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              You will find three types of coworking spaces for rent in Saket
+              including private cabins, dedicated desks and managed office
+              spaces for rent in Saket. Each type of office space promotes
+              productivity and offers diverse working styles.
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[18px] font-bold">
+              What Are the Facilities offered at Coworking Spaces for rent in
+              Saket, Delhi?
+            </h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              Coworking spaces for rent in Saket, Delhi provide a range of
+              facilities that provide comfort and productivity including meeting
+              rooms, high-speed internet and scanning amenities and 24-hour
+              access.
             </p>
           </div>
         </div>
@@ -481,4 +542,4 @@ const OfficeSpaceForRentInVasantVihar = () => {
   );
 };
 
-export default OfficeSpaceForRentInVasantVihar;
+export default officespaceforrentinsaketdelhi;
