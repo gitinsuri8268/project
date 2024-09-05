@@ -62,7 +62,7 @@ const PropertyForm = () => {
         <div className="hidden md:block md:w-1/3 ml-8">
           <div className="mx-20 w-78 h-48 rounded-full overflow-hidden border-4 border-gray-200">
             <Image
-              src="/book.jpg" // Replace with your image path
+              src="/22.png" // Replace with your image path
               width={500}
               height={500}
               className="w-full h-full object-fit"

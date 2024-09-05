@@ -43,10 +43,10 @@ const page = () => {
         <div className="max-w-[1400px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-3">
           <div
             className="lg:col-span-2"
-            onClick={() => handleClick("/p5 (2).png")}
+            onClick={() => handleClick("/p1 (1).png")}
           >
             <Image
-              src="/p5 (2).png"
+              src="/p1 (1).png"
               alt="Building"
               width={500}
               height={300}
@@ -54,36 +54,36 @@ const page = () => {
             />
           </div>
           <div className="lg:col-span-3 grid grid-cols-2 gap-3">
-            <div onClick={() => handleClick("/p2 (3).png")}>
+            <div onClick={() => handleClick("/p1 (2).png")}>
               <Image
-                src="/p2 (3).png"
+                src="/p1 (2).png"
                 alt="Office 1"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/p2 (1).png")}>
+            <div onClick={() => handleClick("/p1 (3).png")}>
               <Image
-                src="/p2 (1).png"
+                src="/p1 (3).png"
                 alt="Office 2"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/p2 (2).png")}>
+            <div onClick={() => handleClick("/p1 (4).png")}>
               <Image
-                src="/p2 (2).png"
+                src="/p1 (4).png"
                 alt="Cubicles 1"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/p5 (1).png")}>
+            <div onClick={() => handleClick("/p1 (5).png")}>
               <Image
-                src="/p5 (1).png"
+                src="/p1 (5).png"
                 alt="Cubicles 2"
                 width={250}
                 height={150}

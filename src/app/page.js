@@ -13,6 +13,7 @@ import Content from "@/components/content"
 import Textsocial from "@/components/textsocial"
 import Abc from "@/components/abc";
 import Footer from "@/components/footer";
+import Whatsapp from "@/components/whatsapp";
 export default function Home() {
   return (
     <div>
@@ -30,7 +31,9 @@ export default function Home() {
         <Brand />
         <Content />
         <Textsocial />
+        <br />
         <Abc/>
+        <Whatsapp/>
         <Footer />
       </div>
   );

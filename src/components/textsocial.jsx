@@ -5,12 +5,13 @@ import { CiFacebook } from "react-icons/ci";
 import { FaYoutube } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaSquareInstagram } from "react-icons/fa6";
-
+import Abc from "@/components/abc"
 import Image from "next/image";
 const FooterSection = () => {
   return (
+    <>
     <div className="bg-[#ffc107] w-full">
-      <div className="max-w-[1100px] h-[50vh] md:h-[40vh] mx-auto grid grid grid-cols-1 md:grid-cols-2 gap-4 py-[5px] md:py-[100px] p-2 md:p-0">
+      <div className="max-w-[1100px] h-[70vh] md:h-[40vh] mx-auto grid grid grid-cols-1 md:grid-cols-2 gap-4 py-[5px] md:py-[100px] p-2 md:p-0">
         <div className="bg-[#ffc107] grid  text-justify text-[12px] font-light ">
           <Image src="/logo2.JPEG" width={80} height={80} className="pb-4 " />
           <p>
@@ -81,7 +82,9 @@ const FooterSection = () => {
           </div>
         </div>
       </div>
-    </div>
+    </div> 
+    
+    </>
   );
 };
 
