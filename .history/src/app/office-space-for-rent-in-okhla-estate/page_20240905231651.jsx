@@ -25,6 +25,7 @@ import { IoCheckmarkDoneCircle } from "react-icons/io5";
 import Textsocial from "@/components/textsocial";
 
 import React, { useState } from 'react';
+import officespaceforrentinokhlaestate from "../office-space-for-rent-in-saket-delhi/page";
 const officespaceforrentinokhlaestate = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 

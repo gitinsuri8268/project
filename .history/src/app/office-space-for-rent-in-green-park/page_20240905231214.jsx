@@ -23,9 +23,8 @@ import { BsBatteryCharging } from "react-icons/bs";
 import { RiHomeOfficeFill } from "react-icons/ri";
 import { IoCheckmarkDoneCircle } from "react-icons/io5";
 import Textsocial from "@/components/textsocial";
-
 import React, { useState } from 'react';
-const officespaceforrentinokhlaestate = () => {
+const officespaceforrentingreenpark = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 
   const handleClick = (src) => {
@@ -42,10 +41,10 @@ const officespaceforrentinokhlaestate = () => {
         <div className="max-w-[1400px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-3">
           <div
             className="lg:col-span-2"
-            onClick={() => handleClick("/n1.png")}
+            onClick={() => handleClick("/p1 (1).png")}
           >
             <Image
-              src="/n1.png"
+              src="/p1 (1).png"
               alt="Building"
               width={500}
               height={300}
@@ -53,36 +52,36 @@ const officespaceforrentinokhlaestate = () => {
             />
           </div>
           <div className="lg:col-span-3 grid grid-cols-2 gap-3">
-            <div onClick={() => handleClick("/n2.png")}>
+            <div onClick={() => handleClick("/p1 (2).png")}>
               <Image
-                src="/n2.png"
+                src="/p1 (2).png"
                 alt="Office 1"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/n3.png")}>
+            <div onClick={() => handleClick("/p1 (3).png")}>
               <Image
-                src="/n3.png"
+                src="/p1 (3).png"
                 alt="Office 2"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/n4.png")}>
+            <div onClick={() => handleClick("/p1 (4).png")}>
               <Image
-                src="/n4.png"
+                src="/p1 (4).png"
                 alt="Cubicles 1"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/n5.png")}>
+            <div onClick={() => handleClick("/p1 (5).png")}>
               <Image
-                src="/n5.png"
+                src="/p1 (5).png"
                 alt="Cubicles 2"
                 width={250}
                 height={150}
@@ -325,10 +324,10 @@ const officespaceforrentinokhlaestate = () => {
                       id=""
                     >
                       <option className="" value="">
-                        select
+                        office space
                       </option>
                       <option className="" value="">
-                        select
+                        coworing space
                       </option>
                       <option className="" value="">
                         select
@@ -373,116 +372,107 @@ const officespaceforrentinokhlaestate = () => {
         <div className="max-w-[1100px] mx-auto text-justify py-[20px] p-2 md:p-0">
           <div className="grid  py-[5px] ">
             <h1 className="font-serif text-[16px] md:text-[18px] font-bold">
-              Commercial office space for rent in Okhla Estate
+              Best Office Space for Rent in Green Park
             </h1>
             <p
               className="py-[5px] leading-relaxed
  font-light tracking-tight
  text-[12px]"
             >
-              Are you looking for your dream commercial office space for rent in
-              Okhla Estate? Gitin Suri is here to help you! Gitin Suri provides
-              office space in Okhla State, Delhi. We welcome all digital nomads,
-              startups, remote workers and businesses to work in the top-notch
-              commercial office space for rent in Okhla Estate.
-            </p>
-            <p
-              className="py-[5px] leading-relaxed
- font-light tracking-tight
- text-[12px]"
-            >
-              Gitin Suri is not only a name but a brand that continues to offer
-              the best coworking office space for rent in Okhla Estate, Delhi.
-              You get a beautiful environment, delightful ambience and superb
-              infrastructure to focus on your work and grow your career.
+              Are you looking for office space for rent in Green Park, then,
+              stay tuned to get the hottest and an excellent office for you in
+              Green Park.
             </p>
           </div>
 
-          <div className="py-[5px]">
-            <h1 className="text-[16px] md:text-[18px] font-bold">About Okhla Estate</h1>
+          <div className="py-[15px]">
+            <h1 className="text-[16px] md:text-[18px] font-bold">Welcome to Gitin Suri!</h1>
             <p className="py-[5px] font-light text-[12px] leading-relaxed ">
-              Okhla Estate is one of the major industrial hubs of Delhi where
-              you can meet industrialists, and rich business owners and build
-              your company from scratch. Having an office space for rent in
-              Okhla Estate is beneficial for professionals who are planning to
-              establish their business. You get a good networking opportunity at
-              Okhla Estate. Also, Okhla Estate offers well-connectivity to young
-              professionals and flexibility.
-            </p>
-          </div>
-          <div className="py-[5px]">
-            <h1 className="text-[16px] md:text-[18px] font-bold">
-              Why choose Gitin Suri for coworking space for rent in Okhla
-              Estate?
-            </h1>
-            <p className="py-[5px] font-light text-[12px] leading-relaxed ">
-              With a modern interior, stylish office space, vibrant community,
-              and tech-enabled services, Gitin Suri offers all the modern
-              amenities to their customers to the ready-to-use commercial office
-              space. Gitin Suri provides a professional office space having
-              private cabins, hot desks and dedicated desks. You also get access
-              to event spaces, air conditioning, an open terrace, a management
-              room, a conference room, housekeeping, beverages, cleaning
-              services, Wi-Fi and high-level security. You can focus on your
-              work without any worries once you choose an office space for rent
-              in Okhla Estate from Gitin Suri!
+              Gitin Suri is here to assist you find the best coworking office
+              space for rent in Green Park without any brokerage. There are
+              ample options available for you. Whether you are looking for a
+              fully furnished or empty office space, you tell Gitin Suri and we
+              will help you find the best office for you in the Green Park
+              location.
             </p>
           </div>
           <div className="py-[0px]">
-            <h2 className="text-[16px] md:text-[18px] font-bold">FAQ&apos;s</h2>
             <h2 className="text-[16px] md:text-[18px] font-bold">
-              Is Coworking office space for rent in Okhla Estate in Delhi better
-              than traditional offices?
+              Let us know more about the Green Park area.
             </h2>
             <p className="py-[5px] font-light text-[12px] leading-relaxed">
-              Coworking spaces for rent in Okhla Estate are gaining popularity
-              among young professionals. Established companies choose shared
-              workspaces as they offer flexibility, good networking
-              opportunities, exit from traditional work atmosphere, good
-              community and zero capital expense.
+              Green Park is one of the most premium suburbs of South Delhi. This
+              place has modern facilities and premium residential apartments.
+              You will see mainly upper-middle-class people residing in the
+              Green Park area in Delhi. Green Park is the main hub with ice
+              cream parlours, hotels and a shopping center. Deer Park is famous
+              for jogging, ducks, and deer enclosures near Green Park. There are
+              small domed structures, Sakri Gumti and Chhoti Gumti near Green
+              Park, Delhi. You can work and enjoy the calmness of nature if you
+              are looking for a commercial office space for rent in Green Park.
             </p>
           </div>
-
           <div className="py-[5px]">
             <h1 className="text-[16px] md:text-[18px] font-bold">
-              Can you expand your team in a coworking office space for rent in
-              Okhla Estate?
+              Why Choose Gitin Suri for Coworking office space for rent in Green
+              Park? Coliving Spaces on GitinSuri
             </h1>
-
             <p className="py-[2px] font-light text-[12px] leading-relaxed">
-              The term coworking office space means flexibility. So, you may
-              subtract or even add your team members according to your needs as
-              the process is convenient.
-            </p>
-          </div>
-
-          <div className="py-[5px]">
-            <h3 className="text-[16px] md:text-[18px] font-bold  ">
-              How can freelancers benefit from a coworking space for rent in
-              Okhla Estate, Delhi?
-            </h3>
-
-            <p className="py-[5px] font-light text-[12px] leading-relaxed">
-              Freelancing is work and requires commitment and dedication. So, if
-              you need a calm space and professional one to work on projects
-              without distraction and hefty charges then coworking space for
-              rent in Okhla Estate, Delhi is the best option for you. You are
-              also exposed to a community that keeps you motivated and you can
-              learn from them and grow your business.
+              Gitin Suri is an online marketplace for coworking office space for
+              rent in Green Park. Along with coworking office spaces, we have
+              conference rooms and meeting rooms too. You will get the best
+              coworking office space in the serenity of nature once you choose
+              Giti Suri.
             </p>
           </div>
           <div className="py-[5px]">
-            <h3 className="text-[16px] md:text-[18px] font-bold tracking-normal">
-              What services are included in a commercial office space for rent
-              in Okhla Estate?
+            <p className="py-[2px] font-light text-[12px] leading-relaxed">
+              Whether you are a startup or a small company, Gitin Suri ensures
+              to meet your demands. We have a talented team of professionals who
+              help you find the best office spaces for you as per your needs.
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <p className="py-[2px] font-light text-[12px] leading-relaxed">
+              Whether you are a startup or a small company, Gitin Suri ensures
+              to meet your demands. We have a talented team of professionals who
+              help you find the best office spaces for you as per your needs.
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <p className="py-[2px] font-light text-[12px] leading-relaxed">
+              Our committed team ensures to discuss with you all your
+              requirements first and then offer the best office space for rent
+              in Green Park. You will get the best office space of your dreams
+              once you choose Gitin Suri! Call Gitin Suri now to find the best
+              commercial space for rent in Green Park and get the most appealing
+              interior office space for rent at an affordable in Green Park,
+              Delhi!
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">FAQ&apos;s</h3>
+            <h3 className="text-[16px] md:text-[18px] font-bold">
+              Why are coworking office spaces popular in Green Park?
             </h3>
-
             <p className="py-[5px] font-light text-[12px] leading-relaxed">
-              The main objective of commercial office space for rent in Okhla
-              Estate is to offer managed office space and it includes IT,
-              administrative assistance, coffee reception and Tea. They also
-              provide pantry access and cleaning services to conference rooms or
-              event rooms to young professionals.
+              Green Park has greenery and you can work and spend time in nature.
+              This is the main reason why coworking office spaces for rent in
+              Green Park are popular. Also, Green Park offers networking
+              opportunities, world-class facilities and connectivity.
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">
+              What are the amenities offered by coworking office spaces for rent
+              in Green Park?
+            </h3>
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              There are different amenities provided by coworking office spaces
+              for rent in Green Park including uninterrupted electricity,
+              coworking space in the serenity of nature, spacious cabinets,
+              Wi-F, high-level security, best infrastructure, parking area, LED
+              display lights and much more.
             </p>
           </div>
          
@@ -494,4 +484,4 @@ const officespaceforrentinokhlaestate = () => {
   );
 };
 
-export default officespaceforrentinokhlaestate;
+export default page;

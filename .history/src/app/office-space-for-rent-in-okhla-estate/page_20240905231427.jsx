@@ -25,7 +25,7 @@ import { IoCheckmarkDoneCircle } from "react-icons/io5";
 import Textsocial from "@/components/textsocial";
 
 import React, { useState } from 'react';
-const officespaceforrentinokhlaestate = () => {
+const officespaceforrentinsouthdelhi = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 
   const handleClick = (src) => {
@@ -494,4 +494,4 @@ const officespaceforrentinokhlaestate = () => {
   );
 };
 
-export default officespaceforrentinokhlaestate;
+export default page;

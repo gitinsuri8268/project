@@ -42,10 +42,10 @@ const officespaceforrentinokhlaestate = () => {
         <div className="max-w-[1400px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-3">
           <div
             className="lg:col-span-2"
-            onClick={() => handleClick("/n1.png")}
+            onClick={() => handleClick("/z1.png")}
           >
             <Image
-              src="/n1.png"
+              src="/z1.png"
               alt="Building"
               width={500}
               height={300}
@@ -53,36 +53,36 @@ const officespaceforrentinokhlaestate = () => {
             />
           </div>
           <div className="lg:col-span-3 grid grid-cols-2 gap-3">
-            <div onClick={() => handleClick("/n2.png")}>
+            <div onClick={() => handleClick("/z2.png")}>
               <Image
-                src="/n2.png"
+                src="/z2.png"
                 alt="Office 1"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/n3.png")}>
+            <div onClick={() => handleClick("/z3.png")}>
               <Image
-                src="/n3.png"
+                src="/z3.png"
                 alt="Office 2"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/n4.png")}>
+            <div onClick={() => handleClick("/z4.png")}>
               <Image
-                src="/n4.png"
+                src="/z4.png"
                 alt="Cubicles 1"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/n5.png")}>
+            <div onClick={() => handleClick("/z5.png")}>
               <Image
-                src="/n5.png"
+                src="/z5.png"
                 alt="Cubicles 2"
                 width={250}
                 height={150}
@@ -373,119 +373,167 @@ const officespaceforrentinokhlaestate = () => {
         <div className="max-w-[1100px] mx-auto text-justify py-[20px] p-2 md:p-0">
           <div className="grid  py-[5px] ">
             <h1 className="font-serif text-[16px] md:text-[18px] font-bold">
-              Commercial office space for rent in Okhla Estate
+              Explore the Best Coworking office space for rent in Saket
             </h1>
             <p
               className="py-[5px] leading-relaxed
  font-light tracking-tight
  text-[12px]"
             >
-              Are you looking for your dream commercial office space for rent in
-              Okhla Estate? Gitin Suri is here to help you! Gitin Suri provides
-              office space in Okhla State, Delhi. We welcome all digital nomads,
-              startups, remote workers and businesses to work in the top-notch
-              commercial office space for rent in Okhla Estate.
+              Planning to start your own business? Gitin Suri can assist you!
+              Gitin Suri has the best office space for rent in Saket, Delhi with
+              world-class facilities and interiors. Having a commercial office
+              space for rent in Saket is a dream of many individuals and it is
+              now possible with Gitin Suri. Whether you are a small business
+              owner or a well-established company, as you come closer to your
+              goals having a space to accommodate your team members is a must.
+              Here is where Gitin Suri comes to the rescue. You can find
+              commercial office space for rent in Saket with our talented team
+              of professionals.
             </p>
             <p
               className="py-[5px] leading-relaxed
  font-light tracking-tight
  text-[12px]"
             >
-              Gitin Suri is not only a name but a brand that continues to offer
-              the best coworking office space for rent in Okhla Estate, Delhi.
-              You get a beautiful environment, delightful ambience and superb
-              infrastructure to focus on your work and grow your career.
+              Explore the stunning work areas in Saket, Delhi providing a range
+              of seating options such as hot desks, virtual offices, dedicated
+              desks, cabins and much more. You will get the dream office space
+              of your choice. Within Saket, you can get cost-effective options
+              for coworking office space for rent in Saket, Delhi. Also, you get
+              access to hassle-free commutation once you choose Saket location
+              for your office. You will get additional facilities with Gitin
+              Suri.
             </p>
           </div>
 
           <div className="py-[5px]">
-            <h1 className="text-[16px] md:text-[18px] font-bold">About Okhla Estate</h1>
+            <h1 className="text-[16px] md:text-[18px] font-bold">About Saket</h1>
             <p className="py-[5px] font-light text-[12px] leading-relaxed ">
-              Okhla Estate is one of the major industrial hubs of Delhi where
-              you can meet industrialists, and rich business owners and build
-              your company from scratch. Having an office space for rent in
-              Okhla Estate is beneficial for professionals who are planning to
-              establish their business. You get a good networking opportunity at
-              Okhla Estate. Also, Okhla Estate offers well-connectivity to young
-              professionals and flexibility.
+              Saket is a residential area in South Delhi. You can get access to
+              pubs, hotels, cafes and restaurants in Saket. Choosing an office
+              space for rent in Saket is the smartest choice you will make. You
+              don&apos;t have to worry about transportation as Saket offers better
+              flexibility and connectivity. It is named after the Ayodhya city
+              of Uttar Pradesh.
             </p>
           </div>
           <div className="py-[5px]">
             <h1 className="text-[16px] md:text-[18px] font-bold">
-              Why choose Gitin Suri for coworking space for rent in Okhla
-              Estate?
+              Why Choose Gitin Suri for Coworking Space for Rent in Saket,
+              Delhi?
             </h1>
             <p className="py-[5px] font-light text-[12px] leading-relaxed ">
-              With a modern interior, stylish office space, vibrant community,
-              and tech-enabled services, Gitin Suri offers all the modern
-              amenities to their customers to the ready-to-use commercial office
-              space. Gitin Suri provides a professional office space having
-              private cabins, hot desks and dedicated desks. You also get access
-              to event spaces, air conditioning, an open terrace, a management
-              room, a conference room, housekeeping, beverages, cleaning
-              services, Wi-Fi and high-level security. You can focus on your
-              work without any worries once you choose an office space for rent
-              in Okhla Estate from Gitin Suri!
+              Coworking spaces for rent in Saket provide a collaborative
+              atmosphere for young and vibrant business individuals. It allows
+              professionals from different industries to network and grow in
+              their careers. Here are the reasons why you must consider choosing
+              commercial office space for rent in Saket, Delhi:
             </p>
           </div>
           <div className="py-[0px]">
-            <h2 className="text-[16px] md:text-[18px] font-bold">FAQ&apos;s</h2>
-            <h2 className="text-[16px] md:text-[18px] font-bold">
-              Is Coworking office space for rent in Okhla Estate in Delhi better
-              than traditional offices?
-            </h2>
+            <h2 className="text-[16px] md:text-[18px] font-bold">Breakout Zones</h2>
             <p className="py-[5px] font-light text-[12px] leading-relaxed">
-              Coworking spaces for rent in Okhla Estate are gaining popularity
-              among young professionals. Established companies choose shared
-              workspaces as they offer flexibility, good networking
-              opportunities, exit from traditional work atmosphere, good
-              community and zero capital expense.
+              A place to relax with professionals, the breakout zone provides
+              new networking opportunities for businesses
             </p>
           </div>
 
           <div className="py-[5px]">
-            <h1 className="text-[16px] md:text-[18px] font-bold">
-              Can you expand your team in a coworking office space for rent in
-              Okhla Estate?
-            </h1>
+            <h1 className="text-[16px] md:text-[18px] font-bold">High-Speed Internet</h1>
 
             <p className="py-[2px] font-light text-[12px] leading-relaxed">
-              The term coworking office space means flexibility. So, you may
-              subtract or even add your team members according to your needs as
-              the process is convenient.
+              Fast and good internet speed keeps work uninterrupted and
+              communication easy.
             </p>
           </div>
 
           <div className="py-[5px]">
-            <h3 className="text-[16px] md:text-[18px] font-bold  ">
-              How can freelancers benefit from a coworking space for rent in
-              Okhla Estate, Delhi?
-            </h3>
+            <h3 className="text-[16px] md:text-[18px] font-bold">Meeting Rooms</h3>
 
             <p className="py-[5px] font-light text-[12px] leading-relaxed">
-              Freelancing is work and requires commitment and dedication. So, if
-              you need a calm space and professional one to work on projects
-              without distraction and hefty charges then coworking space for
-              rent in Okhla Estate, Delhi is the best option for you. You are
-              also exposed to a community that keeps you motivated and you can
-              learn from them and grow your business.
+              Good meeting rooms create the best and most unique space that
+              boosts creativity among professionals and promotes talent.
             </p>
           </div>
           <div className="py-[5px]">
-            <h3 className="text-[16px] md:text-[18px] font-bold tracking-normal">
-              What services are included in a commercial office space for rent
-              in Okhla Estate?
+            <h3 className="text-[18px] font-bold">
+              Amenities provided for Coworking office space for rent in Saket
             </h3>
 
             <p className="py-[5px] font-light text-[12px] leading-relaxed">
-              The main objective of commercial office space for rent in Okhla
-              Estate is to offer managed office space and it includes IT,
-              administrative assistance, coffee reception and Tea. They also
-              provide pantry access and cleaning services to conference rooms or
-              event rooms to young professionals.
+              Coworking office space for rent in Saket offers a range of
+              facilities that keep professionals inspired to do their work:
             </p>
           </div>
-         
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">Infrastructure</h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              Well-developed infrastructure that includes bus station and Saket
+              Metro station helps professionals to travel hassle-free to their
+              work
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">Infrastructure</h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              Well-developed infrastructure that includes bus station and Saket
+              Metro station helps professionals to travel hassle-free to their
+              work
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">Connectivity</h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              Saket offers excellent connectivity to young and vibrant
+              professionals which makes it a prime location for you to choose
+              your office space in Saket on rent.
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">Range of Working Spaces</h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              There are many options of coworking spaces in Saket that allow you
+              to choose a coworking space in Saket as per your budget and needs
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">Business Hub</h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              There are startups and companies in Saket that provide good
+              networking opportunities for businesses
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[16px] md:text-[18px] font-bold">FAQ&apos;s</h3>
+            <h3 className="text-[16px] md:text-[18px] font-bold">
+              What are the types of coworking spaces for rent in Saket?
+            </h3>
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              You will find three types of coworking spaces for rent in Saket
+              including private cabins, dedicated desks and managed office
+              spaces for rent in Saket. Each type of office space promotes
+              productivity and offers diverse working styles.
+            </p>
+          </div>
+          <div className="py-[5px]">
+            <h3 className="text-[18px] font-bold">
+              What Are the Facilities offered at Coworking Spaces for rent in
+              Saket, Delhi?
+            </h3>
+
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              Coworking spaces for rent in Saket, Delhi provide a range of
+              facilities that provide comfort and productivity including meeting
+              rooms, high-speed internet and scanning amenities and 24-hour
+              access.
+            </p>
+          </div>
         </div>
       </div>
       <Textsocial />
@@ -494,4 +542,4 @@ const officespaceforrentinokhlaestate = () => {
   );
 };
 
-export default officespaceforrentinokhlaestate;
+export default officespaceforrentinsaketdelhi;

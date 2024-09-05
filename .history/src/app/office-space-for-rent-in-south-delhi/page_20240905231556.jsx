@@ -449,4 +449,4 @@ const officespaceforrentinsouthdelhi = () => {
   );
 };
 
-export default officespaceforrentinsouthdelhi;
+export default page;

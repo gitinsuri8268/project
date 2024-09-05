@@ -25,7 +25,7 @@ import { IoCheckmarkDoneCircle } from "react-icons/io5";
 import Textsocial from "@/components/textsocial";
 
 import React, { useState } from 'react';
-const officespaceforrentinokhlaestate = () => {
+const officespaceforrentinnehruplace = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 
   const handleClick = (src) => {
@@ -42,10 +42,10 @@ const officespaceforrentinokhlaestate = () => {
         <div className="max-w-[1400px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-3">
           <div
             className="lg:col-span-2"
-            onClick={() => handleClick("/n1.png")}
+            onClick={() => handleClick("/b5.png")}
           >
             <Image
-              src="/n1.png"
+              src="/b5.png"
               alt="Building"
               width={500}
               height={300}
@@ -53,36 +53,36 @@ const officespaceforrentinokhlaestate = () => {
             />
           </div>
           <div className="lg:col-span-3 grid grid-cols-2 gap-3">
-            <div onClick={() => handleClick("/n2.png")}>
+            <div onClick={() => handleClick("/b1.png")}>
               <Image
-                src="/n2.png"
+                src="/b1.png"
                 alt="Office 1"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/n3.png")}>
+            <div onClick={() => handleClick("/b2.png")}>
               <Image
-                src="/n3.png"
+                src="/b2.png"
                 alt="Office 2"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/n4.png")}>
+            <div onClick={() => handleClick("/b3.png")}>
               <Image
-                src="/n4.png"
+                src="/b3.png"
                 alt="Cubicles 1"
                 width={250}
                 height={150}
                 className="rounded-[20px] object-cover w-full h-[20vh] cursor-pointer"
               />
             </div>
-            <div onClick={() => handleClick("/n5.png")}>
+            <div onClick={() => handleClick("/b4.png")}>
               <Image
-                src="/n5.png"
+                src="/b4.png"
                 alt="Cubicles 2"
                 width={250}
                 height={150}
@@ -373,119 +373,124 @@ const officespaceforrentinokhlaestate = () => {
         <div className="max-w-[1100px] mx-auto text-justify py-[20px] p-2 md:p-0">
           <div className="grid  py-[5px] ">
             <h1 className="font-serif text-[16px] md:text-[18px] font-bold">
-              Commercial office space for rent in Okhla Estate
+              Coworking office space for rent in Nehru Place
             </h1>
             <p
               className="py-[5px] leading-relaxed
- font-light tracking-tight
+ font-light tracking-tight6
  text-[12px]"
             >
-              Are you looking for your dream commercial office space for rent in
-              Okhla Estate? Gitin Suri is here to help you! Gitin Suri provides
-              office space in Okhla State, Delhi. We welcome all digital nomads,
-              startups, remote workers and businesses to work in the top-notch
-              commercial office space for rent in Okhla Estate.
+              Are you looking for a commercial office space for rent in Nehru
+              Place? Your search has ended in Gitin Suri as we provide
+              commercial office space in Nehru Place with top-notch facilities.
             </p>
             <p
               className="py-[5px] leading-relaxed
- font-light tracking-tight
+ font-light tracking-tight6
  text-[12px]"
             >
-              Gitin Suri is not only a name but a brand that continues to offer
-              the best coworking office space for rent in Okhla Estate, Delhi.
-              You get a beautiful environment, delightful ambience and superb
-              infrastructure to focus on your work and grow your career.
+              You can get a range of options to choose from for your office
+              space for rent in Nehru Place. These workspaces have the best
+              facilities including conference rooms, housekeeping service, air
+              conditioning, a parking facility, a high level of security,
+              top-notch Wi-Fi speed, an open pantry and much more. You will be
+              happy and would love your office space once you see it.
+            </p>
+            <p
+              className="py-[5px] leading-relaxed
+ font-light tracking-tight6
+ text-[12px]"
+            >
+              Nehru Place as the name goes is named after the first Prime
+              Minister of India, Jawaharlal Nehru. Nehru Place in Delhi has
+              direct access to the rest of Delhi, which gives excellent
+              connectivity. There are many food outlets, retail stores, cafes
+              and restaurants in Nehru Place. You can also get public
+              transportation easily in Nehru Place. You can also choose a
+              coworking place for an hour, day, week or month as per your
+              convenience on rent in Nehru Place. Gitin Suri offers an exclusive
+              coworking office space for rent in Nehru Place!
+            </p>
+            <p
+              className="py-[5px] leading-relaxed
+ font-light tracking-tight6
+ text-[12px]"
+            >
+              Nehru Place is a technology hub and this is the perfect place to
+              have your office space. If you are looking for good opportunities,
+              and a good company culture for your business then Nehru Place is
+              your choice!
             </p>
           </div>
 
-          <div className="py-[5px]">
-            <h1 className="text-[16px] md:text-[18px] font-bold">About Okhla Estate</h1>
-            <p className="py-[5px] font-light text-[12px] leading-relaxed ">
-              Okhla Estate is one of the major industrial hubs of Delhi where
-              you can meet industrialists, and rich business owners and build
-              your company from scratch. Having an office space for rent in
-              Okhla Estate is beneficial for professionals who are planning to
-              establish their business. You get a good networking opportunity at
-              Okhla Estate. Also, Okhla Estate offers well-connectivity to young
-              professionals and flexibility.
-            </p>
-          </div>
-          <div className="py-[5px]">
+          <div className="py-[15px]">
             <h1 className="text-[16px] md:text-[18px] font-bold">
-              Why choose Gitin Suri for coworking space for rent in Okhla
-              Estate?
+              Why Choose Gitin Suri for Commerical Office Space for Rent in
+              Nehru Place?
             </h1>
             <p className="py-[5px] font-light text-[12px] leading-relaxed ">
-              With a modern interior, stylish office space, vibrant community,
-              and tech-enabled services, Gitin Suri offers all the modern
-              amenities to their customers to the ready-to-use commercial office
-              space. Gitin Suri provides a professional office space having
-              private cabins, hot desks and dedicated desks. You also get access
-              to event spaces, air conditioning, an open terrace, a management
-              room, a conference room, housekeeping, beverages, cleaning
-              services, Wi-Fi and high-level security. You can focus on your
-              work without any worries once you choose an office space for rent
-              in Okhla Estate from Gitin Suri!
+              Gitin Suri is a brand that offers coworking office space for rent
+              in Nehru Place, Delhi. With aesthetically attractive office spaces
+              and advanced technical amenities, we provide luxurious office
+              spaces for rent in Nehru Place. Apart from offices, you may choose
+              from a range of options according to your budget. We also have
+              conference and training rooms.
+            </p>
+            <p className="py-[5px] font-light text-[12px] leading-relaxed ">
+              In Gitin Suri office spaces in Nehru Place, you get a coffee
+              vending machine, LED display and all the modern amenities. With a
+              positive environment and the best office spaces for rent, you can
+              focus on your work and get the desired results to grow your
+              business. Once you choose Gitin Suri, you get access to a
+              flexible, effective and hassle-free environment to expand your
+              business. If you are planning to start your business and looking
+              for an office space for rent in Nehru Place, call Gitin Suri right
+              away!
+            </p>
+          </div>
+          <div className="py-[15px]">
+            <h1 className="text-[16px] md:text-[18px] font-bold">FAQ&apos;s</h1>
+            <h1 className="text-[16px] md:text-[18px] font-bold">
+              What are the prices of dedicated desks, hot desks and private
+              cabins of commercial office space for rent in Nehru Place?
+            </h1>
+            <p className="py-[5px] font-light text-[12px] leading-relaxed ">
+              Dedicated desks cost Rs 6500 per seat, private cabins Rs 6500 per
+              seat and hot desks start from Rs 6000 per seat.
             </p>
           </div>
           <div className="py-[0px]">
-            <h2 className="text-[16px] md:text-[18px] font-bold">FAQ&apos;s</h2>
-            <h2 className="text-[16px] md:text-[18px] font-bold">
-              Is Coworking office space for rent in Okhla Estate in Delhi better
-              than traditional offices?
+            <h2 className="text-[18px] font-bold">
+              Why do individuals choose Nehru office space for rent in Nehru
+              Place, Delhi?
             </h2>
             <p className="py-[5px] font-light text-[12px] leading-relaxed">
-              Coworking spaces for rent in Okhla Estate are gaining popularity
-              among young professionals. Established companies choose shared
-              workspaces as they offer flexibility, good networking
-              opportunities, exit from traditional work atmosphere, good
-              community and zero capital expense.
+              Office space for rent in Nehru Place is favoured because of its
+              infrastructure, astonishing interior, flexibility and community
+              access, top-notch amenities and good culture.
             </p>
           </div>
-
+          <div className="py-[0px]">
+            <h2 className="text-[18px] font-bold">
+              What are the amenities offered by commercial office space for rent
+              in Nehru Place?
+            </h2>
+            <p className="py-[5px] font-light text-[12px] leading-relaxed">
+              The amenities are a parking area, cleaning services, a
+              well-equipped office with modern furniture and a water supply for
+              24 hours.
+            </p>
+          </div>
           <div className="py-[5px]">
             <h1 className="text-[16px] md:text-[18px] font-bold">
-              Can you expand your team in a coworking office space for rent in
-              Okhla Estate?
+              What is the rent of coworking office space for rent in Nehru
+              Place?
             </h1>
-
             <p className="py-[2px] font-light text-[12px] leading-relaxed">
-              The term coworking office space means flexibility. So, you may
-              subtract or even add your team members according to your needs as
-              the process is convenient.
+              Rent of coworking office space for rent in Nehru Place starts at
+              Rs 300 every day.
             </p>
           </div>
-
-          <div className="py-[5px]">
-            <h3 className="text-[16px] md:text-[18px] font-bold  ">
-              How can freelancers benefit from a coworking space for rent in
-              Okhla Estate, Delhi?
-            </h3>
-
-            <p className="py-[5px] font-light text-[12px] leading-relaxed">
-              Freelancing is work and requires commitment and dedication. So, if
-              you need a calm space and professional one to work on projects
-              without distraction and hefty charges then coworking space for
-              rent in Okhla Estate, Delhi is the best option for you. You are
-              also exposed to a community that keeps you motivated and you can
-              learn from them and grow your business.
-            </p>
-          </div>
-          <div className="py-[5px]">
-            <h3 className="text-[16px] md:text-[18px] font-bold tracking-normal">
-              What services are included in a commercial office space for rent
-              in Okhla Estate?
-            </h3>
-
-            <p className="py-[5px] font-light text-[12px] leading-relaxed">
-              The main objective of commercial office space for rent in Okhla
-              Estate is to offer managed office space and it includes IT,
-              administrative assistance, coffee reception and Tea. They also
-              provide pantry access and cleaning services to conference rooms or
-              event rooms to young professionals.
-            </p>
-          </div>
-         
         </div>
       </div>
       <Textsocial />
@@ -494,4 +499,4 @@ const officespaceforrentinokhlaestate = () => {
   );
 };
 
-export default officespaceforrentinokhlaestate;
+export default page;
