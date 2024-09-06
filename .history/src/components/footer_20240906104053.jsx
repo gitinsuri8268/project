@@ -23,7 +23,7 @@ const Footer = () => {
         <Link href="/office-space-for-rent-in-saket-delhi">office space for rent in Saket Delhi  </Link>
       </li>
       <li className=' text-[12px]'>
-        <Link href="/office-space-for-rent-in-okhla-estate">office space for rent in Okhla Estate</Link>
+        <Link href="/office-space-for rent in Okhla Estate">office space for rent in Okhla Estate</Link>
       </li>
       <li className='md:list-disc text-[12px]'>
         <Link href="/">office space for rent in Vasant Kunj  </Link>

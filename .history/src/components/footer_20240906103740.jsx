@@ -8,34 +8,34 @@ const Footer = () => {
             <h3 className=' py-[10px] font-medium text-[18px]'>Coworking Spaces in India</h3>
         <ul className='grid grid grid-cols-2 md:grid-cols-5  gap-4  font-light'>
       <li className=' text-[12px]'>
-        <Link  href="/office-space-for-rent-in-Green-park">office space for rent in Green park</Link>
+        <Link  href="/office-space-for-rent-in-Green-park">office space for rent in Green park        </Link>
       </li>
       <li className=' list-disc text-[12px]'>
-        <Link href="/office-space-for-rent-in-vasant-vihar">office space for rent in Vasant vihar</Link>
+        <Link href="/about">office space for rent in Vasant vihar</Link>
       </li>
       <li className='md:list-disc text-[12px]'>
-        <Link href="/office-space-for-rent-in-hauz-khas">office space for rent in Hauz khas  </Link>
+        <Link href="/blog/hello-world">office space for rent in Hauz khas  </Link>
       </li>
       <li className='list-disc text-[12px]'>
-        <Link href="/office-space-for-rent-in-nehru place">office space for rent in Nehru place </Link>
+        <Link href="/blog/hello-world">office space for rent in Nehru place </Link>
       </li>
       <li className='md:list-disc text-[12px]'>
-        <Link href="/office-space-for-rent-in-saket-delhi">office space for rent in Saket Delhi  </Link>
+        <Link href="/blog/hello-world">office space for rent in Saket  </Link>
       </li>
       <li className=' text-[12px]'>
-        <Link href="/office-space-for-rent-in-okhla-estate">office space for rent in Okhla Estate</Link>
+        <Link href="/blog/hello-world">office space for rent in Okhla Estate  </Link>
       </li>
       <li className='md:list-disc text-[12px]'>
-        <Link href="/">office space for rent in Vasant Kunj  </Link>
+        <Link href="/blog/hello-world">office space for rent in Vasant Kunj  </Link>
       </li>
       <li className='list-disc text-[12px]'>
-        <Link href="/">office space for rent in Defence colony </Link>
+        <Link href="/blog/hello-world">office space for rent in Defence colony </Link>
       </li>
       <li className='list-disc text-[12px]'>
-        <Link href="/">Coworking Space in DLF Gurgaon </Link>
+        <Link href="/blog/hello-world">Coworking Space in DLF Gurgaon </Link>
       </li>
       <li className='list-disc text-[12px]'>
-        <Link href="/">office space for rent in Lajpat nager  </Link>
+        <Link href="/blog/hello-world">office space for rent in Lajpat nager  </Link>
       </li>
       <li className=' text-[12px]'>
         <Link href="">office space for rent Greater Kailash ½ </Link>
@@ -44,13 +44,13 @@ const Footer = () => {
         <Link href="/">Coworking Space in DLF Gurgaon </Link>
       </li>
       <li className='list-disc text-[12px]'>
-        <Link href="/">Coworking Space in DLF Gurgaon </Link>
+        <Link href="/blog/hello-world">Coworking Space in DLF Gurgaon </Link>
       </li>
       <li className='list-disc text-[12px]'>
         <Link href="/">Coworking Space in DLF Gurgaon </Link>
       </li>
       <li className='list-disc text-[12px]'>
-        <Link href="/">Coworking Space in DLF Gurgaon </Link>
+        <Link href="/blog/hello-world">Coworking Space in DLF Gurgaon </Link>
       </li>
     </ul>
         </div>

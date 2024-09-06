@@ -14,16 +14,16 @@ const Footer = () => {
         <Link href="/office-space-for-rent-in-vasant-vihar">office space for rent in Vasant vihar</Link>
       </li>
       <li className='md:list-disc text-[12px]'>
-        <Link href="/office-space-for-rent-in-hauz-khas">office space for rent in Hauz khas  </Link>
+        <Link href="/office-space for rent in Hauz khas">office space for rent in Hauz khas  </Link>
       </li>
       <li className='list-disc text-[12px]'>
-        <Link href="/office-space-for-rent-in-nehru place">office space for rent in Nehru place </Link>
+        <Link href="/">office space for rent in Nehru place </Link>
       </li>
       <li className='md:list-disc text-[12px]'>
-        <Link href="/office-space-for-rent-in-saket-delhi">office space for rent in Saket Delhi  </Link>
+        <Link href="/">office space for rent in Saket  </Link>
       </li>
       <li className=' text-[12px]'>
-        <Link href="/office-space-for-rent-in-okhla-estate">office space for rent in Okhla Estate</Link>
+        <Link href="/">office space for rent in Okhla Estate  </Link>
       </li>
       <li className='md:list-disc text-[12px]'>
         <Link href="/">office space for rent in Vasant Kunj  </Link>
