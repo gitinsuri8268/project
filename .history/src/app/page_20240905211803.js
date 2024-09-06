@@ -5,7 +5,7 @@ import Coworkingoffice from "@/components/coworkingoffice"
 import Officespace from "@/components/data/officespace";
 import Officespaces from "@/components/data/officespaces";
 import Coworking from "@/components/coworking"
-// import Book from "@/components/book"
+import Book from "@/components/book"
 import Getfromus from "@/components/getfromus"
 import Form from "@/components/form";
 import Brand from "@/components/brand"
@@ -25,7 +25,7 @@ export default function Home() {
         <Abc/>
         <Coworkingoffice />
         <Coworking />
-        {/* <Book /> */}
+        <Book />
         <Getfromus />
         <Form />
         <Brand />
