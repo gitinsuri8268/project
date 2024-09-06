@@ -16,7 +16,7 @@ const VirtualOfficeSection = () => {
           </h2>
 
           {/* Icon Grid */}
-          <div className="grid grid-cols-2 md:grid-cols-3 gap-6 mt-6">
+          <div className="grid grid-cols-2 grid-cols-3 gap-6 mt-6">
             <div className="flex items-center space-x-2">
               <MdAppRegistration size={40} className="text-green-500"/>
               <span className="text-gray-700 font-medium">Company Registration</span>
